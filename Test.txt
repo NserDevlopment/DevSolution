@@ -12,4 +12,8 @@ newbranch line
 
 change
 webform
+<<<<<<< HEAD
+testing new things
+=======
 tester 3 committed
+>>>>>>> upstream/Dev
