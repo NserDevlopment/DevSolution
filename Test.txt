@@ -40,8 +40,7 @@ very very very new update
 tester 4 is doing something 
 stash try
 new way
-<<<<<<< HEAD
+
 1 ahead 1 behaind
-=======
+
 new thing added
->>>>>>> new thing added
